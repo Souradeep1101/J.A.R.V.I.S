@@ -7,21 +7,21 @@ Jarvis is a voice commanding assistant service in [Python 3.9]
 It can recognize human speech, talk to user and execute basic commands.
 
 #### Assistant Skills 
-*   **Can open common websites like Youtube, Google, etc.
-*   **Can show the wikipedia of someone / something.
-*   **Can tell the Time
-*   **Can open Google Chrome as the default Web browser.
-*   **Can make a Google Search.
-*   **Can open Calculator, MS Excel and MS Word.
-*   **Can Change User Input from Mic to Keyboard and Vice-Versa.
-*   **Can tell if the user has an Internet Connection or not.
-*   **Can tell the Weather and User's current Location.
-*   **Can tell the Internet Speed.
+*   Can open common websites like Youtube, Google, etc.
+*   Can show the wikipedia of someone / something.
+*   Can tell the Time
+*   Can open Google Chrome as the default Web browser.
+*   Can make a Google Search.
+*   Can open Calculator, MS Excel and MS Word.
+*   Can Change User Input from Mic to Keyboard and Vice-Versa.
+*   Can tell if the user has an Internet Connection or not.
+*   Can tell the Weather and User's current Location.
+*   Can tell the Internet Speed.
 
 #### Assistant Features
 *   Supports **two different user input modes (text or speech)**, user can write or speek in the mic.
-*   **Change input mode on run time**
-*   Gives both **Vocal and text response**
+*   **Change input mode on run time**.
+*   Gives both **Vocal and Text** response.
 
 ## Getting Started
 ### Create KEYs for third party APIs
