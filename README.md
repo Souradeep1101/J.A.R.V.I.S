@@ -1,4 +1,4 @@
-![alt text](C:\Users\Souradeep Banerjee\Documents\GitHub\J.A.R.V.I.S\png\J.A.R.V.I.S. Logo.png)
+![alt text](https://github.com/Souradeep1101/J.A.R.V.I.S/blob/main/png/J.A.R.V.I.S.%20Logo.png)
 
 ![alt text](C:\Users\Souradeep Banerjee\Documents\GitHub\J.A.R.V.I.S\png\jarvis_terminal)
 
