@@ -1,0 +1,3 @@
+Supports two different user input modes (text or speech), user can write or speak in the mic.
+Change input mode on run time.
+Gives both Vocal and Text Response.

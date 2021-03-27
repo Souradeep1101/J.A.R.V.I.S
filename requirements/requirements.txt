@@ -1,0 +1,11 @@
+webbrowser
+datetime
+speech_recognition 
+wikipedia
+os
+pyttsx3
+socket
+requests
+speedtest
+geocoder
+pyowm
