@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Souradeep1101/J.A.R.V.I.S/blob/main/png/J.A.R.V.I.S.%20Logo.png)
 
-![alt text](C:\Users\Souradeep Banerjee\Documents\GitHub\J.A.R.V.I.S\png\jarvis_terminal)
+![alt text](https://github.com/Souradeep1101/J.A.R.V.I.S/blob/main/png/jarvis_terminal.png)
 
 # About Jarvis - Just A Rather Very Intelligent System 🧠
 Jarvis is a voice commanding assistant service in [Python 3.9]
